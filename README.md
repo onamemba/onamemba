@@ -17,7 +17,7 @@ Data Engineer | Software Engineer | Devops
  
 I'm an engineer with experience across data engineering, software development, and DevOps, building cloud data pipelines and infrastructure across retail, financial services, and healthcare industries. I moved to the US from South Africa in 2024, and these days I'm having fun stretching into AI/ML engineering, learning new tools, and figuring out how to build things that are not just smart, but actually trustworthy.
  
-When I'm not knee-deep in data pipelines, I'm usually reading up on the latest in AI, tinkering with a new cloud service, or working toward my next certification. Always up for a good technical conversation, feel free to connect!
+When I'm not knee-deep in automation, I'm usually reading up on the latest in AI, tinkering with a new cloud service, or working toward my next certification. Always up for a good technical conversation, feel free to connect!
 
 ### 🛠️ Tech Stack
  
